@@ -49,3 +49,5 @@ Sonuna ".." eklenirse bir önceki klasöre girer.
 
 ## Rota Komutları Bölümü Sona Erdi
 *Umarım yardımcı olmuştur!*
+
+![TvShowsHimymGIF](https://github.com/alperberke/Linux-Shell-Notlar-Kali-/assets/158094774/3ef498eb-9a34-41cc-83c2-4ab4f57e484f)
