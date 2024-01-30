@@ -1,6 +1,6 @@
 # Okuyunuz
 
-*English Version: b*
+*English Version: https://github.com/alperberke/Linux-Shell-Notes-Kali*
 
 - 🖋️ **Burada aldığım Linux Shell notlarını paylaşacağım.**
 
