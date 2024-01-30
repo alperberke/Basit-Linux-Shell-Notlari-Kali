@@ -4,8 +4,8 @@
 
 **Burada aldığım Linux Shell notlarını paylaşacağım.**
 
-Notlarım üzerinden Linux Shell'e çalışabilirsiniz.
+- Notlarım üzerinden _Linux Shell'e_ çalışabilirsiniz.
 
-Notları istediğiniz gibi düzenleyip paylaşabilirsiniz fakat **credit vermeyi unutmayın!**
+- Notları istediğiniz gibi düzenleyip paylaşabilirsiniz fakat **credit vermeyi unutmayın!**
 
-_Bu işlere yeni girdim, teşekkür ederim!_
+- _Bu işlere yeni girdim, teşekkür ederim!_
