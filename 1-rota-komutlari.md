@@ -1,5 +1,5 @@
 # Rota Komutları
-_Bu bölümde arayüz kullanarak yapılan dosya oluşturma, silme, taşıma gibi işlemleri göreceğiz._
+_Bu bölümde arayüz kullanarak yapılan klasörler içinde gezme işlemlerini göreceğiz._
 
 - İlk Komutumuzla Başlayalım: "setxkbmap"
 
